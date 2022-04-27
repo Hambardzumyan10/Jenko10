@@ -1,0 +1,10 @@
+<suite name="BA">
+	<test name="AperJan" parallel = "methods" thread-count = "1">
+		<!--    <test name="AperJan" parallel = "methods" thread-count = "2">-->
+		<classes>
+			<!--       <class name="Regions.Com"/>-->
+			<class name="Regions.Am"/>
+
+		</classes>
+	</test>
+</suite>
